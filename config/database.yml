@@ -28,7 +28,7 @@ test:
   reconnect: false
   database: mysql_rails_test
   pool: 5
-  username: mysql_rails
+  username: root
   password:
   socket: /tmp/mysql.sock
   host: localhost
